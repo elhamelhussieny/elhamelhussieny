@@ -1,5 +1,8 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello World! I'm **Elham Hamed Mahmoud**
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Elham+Hamed;Data+Analyst;Business+Intelligence+Analyst" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <!-- <a href="https://your-portfolio-link.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a> -->

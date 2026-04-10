@@ -13,11 +13,19 @@
 
 ## 📊 About Me
 
-Focused on transforming raw data into clear insights through **SQL, Python, Power BI, Excel, DAX, ETL, and data visualization.** Experienced in data cleaning and preparation, statistical analysis, predictive modeling, A/B testing, and SQL database management to support accurate and fast decision-making.
+Business Analyst with a strong technical foundation in Computer Science and hands-on experience through the ITI Business Analysis track.
+ 
+Passionate about bridging the gap between business needs and technology by translating complex requirements into clear, actionable solutions.
+ 
+Skilled in requirements gathering, stakeholder communication, and data analysis using tools such as SQL, Excel, and Power BI to drive data-informed decisions.
+ 
+Experienced in Agile environments, working with cross-functional teams to deliver user-focused solutions, write user stories, and support product development cycles.
+ 
+Strong analytical mindset with a focus on process improvement, KPI tracking, and delivering measurable business value.
+ 
+Currently seeking opportunities to contribute to impactful digital products and grow within a dynamic, data-driven organization.
 
-Skilled in dashboard development, business intelligence (BI), reporting and analytics, data warehousing concepts, and automated reporting pipelines. Strengths include data storytelling, trend analysis, KPI modeling, EDA, and identifying patterns that highlight opportunities or risks. Passionate about simplifying complex information and turning it into actionable insights that enhance business performance and operational efficiency.
-
-Seeking an entry-level **Data Analyst** or **Business Intelligence Analyst** role.
+Seeking an entry-level **Business Analyst** or **Product Owner** role.
 
 
 ## 🚀 Skills & Technologies
